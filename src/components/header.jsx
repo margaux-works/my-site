@@ -6,10 +6,10 @@ export default function Header() {
         alt="profile picture Margaux"
         className="rounded-full w-1/3"
       />
-      <h1 className="text-4xl font-semibold font-outfit text-purple mt-3">
+      <h1 className="text-4xl font-outfit text-purple-100 mt-3">
         Margaux Espinasse
       </h1>
-      <p className="font-outfit text-purple-100">Full-Stack Developer</p>
+      <p className="font-outfit text-purple">Full-Stack Developer</p>
     </header>
   );
 }
