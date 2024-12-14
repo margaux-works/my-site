@@ -4,20 +4,20 @@ export default function Links() {
       <a
         href="https://www.linkedin.com/in/margaux-espinasse/"
         target="_blank"
-        className="text-purple-100 px-12 py-3 bg-gray-light rounded-lg hover:border-purple hover:border"
+        className="dark:text-purple-100 text-black px-12 py-3 dark:bg-gray-light bg-white rounded-lg hover:border-purple hover:border"
       >
         LinkedIn
       </a>
       <a
         href="https://github.com/margaux-works"
         target="_blank"
-        className="text-purple-100 px-12 py-3 bg-gray-light rounded-lg hover:border-purple hover:border"
+        className="dark:text-purple-100 text-black px-12 py-3 dark:bg-gray-light bg-white rounded-lg hover:border-purple hover:border"
       >
         GitHub
       </a>
       <a
         href="mailto@margaux.espinasse@gmail.com"
-        className="text-purple-100 px-12 py-3 bg-gray-light rounded-lg hover:border-purple hover:border mb-8"
+        className="dark:text-purple-100 text-black px-12 py-3 dark:bg-gray-light bg-white rounded-lg hover:border-purple hover:border mb-2"
       >
         <img
           src="/src/assets/mail.svg"
