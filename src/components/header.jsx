@@ -9,7 +9,7 @@ export default function Header() {
       <h1 className="text-4xl font-outfit text-gray dark:text-purple-100 mt-3">
         Margaux Espinasse
       </h1>
-      <p className="font-outfit text-purple">Full-Stack Developer</p>
+      <p className="font-outfit text-purple">Full-Stack Web Developer</p>
     </header>
   );
 }
