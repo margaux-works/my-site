@@ -1,10 +1,10 @@
 export default function Header() {
   return (
-    <header className="justify-items-center mx-4 my-6">
+    <header className="flex flex-col items-center  mx-4 my-6">
       <img
-        src="/src/assets/picMargaux.png"
+        src="/picMargaux.png"
         alt="profile picture Margaux"
-        className="rounded-full w-1/3"
+        className="rounded-full w-1/3 mx-auto"
       />
       <h1 className="text-4xl font-outfit text-gray dark:text-purple-100 mt-3">
         Margaux Espinasse

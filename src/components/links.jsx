@@ -16,7 +16,7 @@ export default function Links() {
         GitHub
       </a>
       <a
-        href="mailto@margaux.espinasse@gmail.com"
+        href="mailto:margaux.espinasse@gmail.com"
         className="dark:text-purple-100 text-black px-12 py-3 dark:bg-gray-light bg-white rounded-lg hover:border-purple  mb-2 border border-transparent"
       >
         <svg
